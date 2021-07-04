@@ -27,18 +27,13 @@ Jika belum download termux di play store, silahkan download terlebih dahulu.
 install `wget` dan `proot`
 ```
 pkg install wget
-pkg install proot
 ```
 lalu download release versi androidnya:
 ```
 wget -O https://github.com/bro-11/flasher2/releases/download/1.0.0-beta/flasher2-android
 chmod +x flasher2-android
 ```
-jalankan `termux-chroot`:
-```
-termux-chroot
-```
-lalu login dengan perintah berikut:
+login dengan perintah berikut:
 ```
 ./flasher2-android login
 ```
