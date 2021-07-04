@@ -24,16 +24,21 @@ gak paham? gausah make linux.
 ### Android (Termux)
 Jika belum download termux di play store, silahkan download terlebih dahulu.
 
-install `wget`
+install `wget` dan `proot`
 ```
 pkg install wget
+pkg install proot
 ```
 lalu download release versi androidnya:
 ```
 wget https://github.com/bro-11/flasher2/releases/download/1.0.0-beta/flasher2-android
 chmod +x flasher2-android
 ```
-login dengan perintah berikut:
+jalankan `termux-chroot`:
+```
+termux-chroot
+```
+lalu login dengan perintah berikut:
 ```
 ./flasher2-android login
 ```
@@ -41,5 +46,6 @@ jalankan botnya:
 ```
 ./flasher2-android
 ```
+Note: Jalankan `termux-chroot` setiap kali akan menjalankan bot ini di termux
 # Bug?
 Boleh laporin bug ke telegram saya [<img src="https://img.shields.io/badge/telegram-bro12221-blue?style=flat&logo=telegram">](https://t.me/bro12221) atau bisa bikin issue
