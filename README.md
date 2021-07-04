@@ -37,3 +37,5 @@ jalankan botnya:
 ```
 ./flasher2-android
 ```
+# Bug?
+Boleh laporin bug ke telegram saya [<img src="https://img.shields.io/badge/telegram-bro12221-blue?style=flat&logo=telegram">](https://t.me/bro12221) atau bisa bikin issue
