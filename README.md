@@ -24,7 +24,11 @@ gak paham? gausah make linux.
 ### Android (Termux)
 Jika belum download termux di play store, silahkan download terlebih dahulu.
 
-Buka termux lalu download release versi androidnya:
+install `wget`
+```
+pkg install wget
+```
+lalu download release versi androidnya:
 ```
 wget https://github.com/bro-11/flasher2/releases/download/1.0.0-beta/flasher2-android
 chmod +x flasher2-android
