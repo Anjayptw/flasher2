@@ -24,7 +24,7 @@ gak paham? gausah make linux.
 ### Android (Termux)
 Jika belum download termux di play store, silahkan download terlebih dahulu.
 
-install `wget` dan `proot`
+install `wget`
 ```
 pkg install wget
 ```
