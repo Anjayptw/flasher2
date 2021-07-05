@@ -3,12 +3,7 @@ Untuk user windows dan linux, download file executable di [release](https://gith
 download sesuai OS yang anda pakai.
 
 ### Windows
-Silahkan buka cmd di folder dimana anda mendownload file executable tadi.\
-setelah itu login dengan mengetikkan perintah berikut:
-```
-flasher2 login
-```
-Jika sudah selesai login, bisa langsung jalankan botnya dengan double klik di file executablenya atau ketik `flasher2` di cmd.
+Klik dua kali pada file executablenya.
 
 ### Linux
 Login dengan perintah berikut:
