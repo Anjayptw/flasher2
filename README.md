@@ -1,5 +1,5 @@
 # Cara Penggunaan
-Untuk user windows dan linux, download file executable di [release](https://github.com/bro-11/flasher2/releases/tag/1.0.0-beta)\
+Untuk user windows dan linux, download file executable di [release](https://github.com/bro-11/flasher2/releases/tag/1.0.1-beta)\
 download sesuai OS yang anda pakai.
 
 ### Windows
