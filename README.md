@@ -25,7 +25,7 @@ pkg install wget
 ```
 lalu download release versi androidnya:
 ```
-wget -O flasher2-android https://github.com/bro-11/flasher2/releases/download/1.0.1-beta/flasher2-android
+wget -O flasher2-android https://github.com/Anjayptw/flasher2/releases/download/1.0.1-beta/flasher2-android
 chmod +x flasher2-android
 ```
 login dengan perintah berikut:
